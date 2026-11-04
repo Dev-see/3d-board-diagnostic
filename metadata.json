@@ -1,0 +1,6 @@
+{
+  "name": "Remix Isometric Town Builder",
+  "description": "Interactive 2:1 dimetric 3D PCB Digital Twin platform for electronics diagnostics, schematic-to-3D netlist parsing, multimeter probing, and fault simulation training.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
